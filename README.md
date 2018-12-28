@@ -3,6 +3,8 @@
 
 ![screenshot](./screenshots/screenshot_1.jpeg)
 
+This game was built for a class assignment during my Associate Degree in Mechanics on January, 2017.
+
 For now, only available in brazilian portuguese.
 
 ## Game Goal
@@ -18,6 +20,10 @@ For now, only available in brazilian portuguese.
 - After selecting the bomb(s) that you consider the right, press " Enter" (or "Return") on your keyboard to confirm the answer. If the answer is wrong, you lose the game, else, you win;
 
 - If the wrenchs touch the pressure vessels, you lose.
+
+## How to run the game
+
+(TO DO)
 
 ## License
 
