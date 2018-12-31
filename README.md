@@ -23,7 +23,14 @@ For now, only available in brazilian portuguese.
 
 ## How to run the game
 
-(TO DO)
+Easiest way (Windows only) : You can download the [executable](https://sourceforge.net/projects/delta-s-plus/files/V%201.0/) on my SourceForge page.
+
+Common way : Open the terminal in the game folder and type `python delta-s-plus.py`. Dependencies:
+
+- At least [Python 3.6](https://www.python.org/) installed;
+- At least [Pygame 1.9](https://www.pygame.org/wiki/GettingStarted) installed;
+- [SetupTools](https://setuptools.readthedocs.io/en/latest/) installed;
+- [PyTMX](https://github.com/bitcraft/PyTMX) installed.
 
 ## License
 
